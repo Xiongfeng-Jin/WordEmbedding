@@ -1,1 +1,1 @@
-![](resource/WordEmbeddings.png)
+![](resources/WordEmbeddings.png)
