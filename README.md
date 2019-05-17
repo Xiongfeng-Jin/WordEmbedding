@@ -1,1 +1,1 @@
-# WordEmbedding
+![](resource/WordEmbeddings.png)
